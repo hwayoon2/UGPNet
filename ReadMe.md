@@ -4,7 +4,7 @@
 Hwayoon Lee, Kyoungkook Kang, Hyeongmin Lee, Seung-Hwan Baek, Sunghyun Cho<br>
 
 [\[Paper\]](https://arxiv.org/abs/2401.00370)
-
+[\[Supple\]](https://hwayoon2.github.io/UGPNet/UGPNet_supp.pdf)
 
 ### Environment Setting
     conda env create -f environment.yaml
